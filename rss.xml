@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TedBake Snaps]]></title>
-        <description><![CDATA[TedBake Snaps]]></description>
+        <title><![CDATA[TedBake]]></title>
+        <description><![CDATA[TedBake]]></description>
         <link>https://thegrid.ai/tedbake-snaps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 12:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 13:05:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tedbake-snaps/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tedbake-snaps/41bab23c-3ccf-4f98-8665-48dae07be822/index.html</link>
             <guid isPermaLink="false">41bab23c-3ccf-4f98-8665-48dae07be822</guid>
             <pubDate>Sun, 12 Jun 2016 02:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd05dd9-e90b-440f-875e-e953ae875e9e.jpg" alt="Tain North East Scotland">]]></description>
+            <link>https://thegrid.ai/tedbake-snaps/tain-north-east-scotland/index.html</link>
+            <guid isPermaLink="false">9902532c-5f7f-4181-982a-491b69d3ca2a</guid>
+            <pubDate>Sun, 12 Jun 2016 13:05:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
