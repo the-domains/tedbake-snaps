@@ -1,14 +1,14 @@
-layout_spectrum: 0.9413119384553283
-typography_spectrum: 0.8603582747746259
+layout_spectrum: 0.6595477960072458
+typography_spectrum: 0.27793312328867614
 color:
-  brandStrength: 0.3976434883661568
-  lightness: 0.48368159122765064
-  saturation: 0.7353134716395289
-  rhythmicContrast: 0.6963922530412674
+  brandStrength: 0.05865690531209111
+  lightness: 0.6222391822375357
+  saturation: 0.9701498921494931
+  rhythmicContrast: 0.769230272853747
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: TedBake Snaps
