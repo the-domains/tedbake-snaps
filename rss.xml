@@ -4,7 +4,7 @@
         <description><![CDATA[TedBake]]></description>
         <link>https://thegrid.ai/tedbake-snaps/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 13:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 12:29:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tedbake-snaps/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/tedbake-snaps/tain-north-east-scotland/index.html</link>
             <guid isPermaLink="false">9902532c-5f7f-4181-982a-491b69d3ca2a</guid>
             <pubDate>Sun, 12 Jun 2016 13:05:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbbf4c9f-7782-4f82-af98-e3f0299fb57e.jpg">]]></description>
-            <link>https://thegrid.ai/tedbake-snaps/050ee5d8-291c-4c88-a214-2bb75e0bae3f/index.html</link>
-            <guid isPermaLink="false">050ee5d8-291c-4c88-a214-2bb75e0bae3f</guid>
-            <pubDate>Sun, 12 Jun 2016 12:58:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
