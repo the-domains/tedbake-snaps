@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-06-12T13:22:02.821Z'
+datePublished: '2016-06-20T12:29:57.022Z'
+sourcePath: >-
+  _posts/2016-06-12-my-trip-to-united-kingdom-in-july-2015-check-out-my-itinera.md
 isBasedOnUrl: 'https://www.tripit.com/p/9BE9FD0C1E1EB87BB662B13B05C4D914'
 keywords:
   - 0ew
@@ -14,8 +16,8 @@ keywords:
   - ox1
 related: []
 author: []
-dateModified: '2016-06-12T13:21:57.590Z'
-title: 'My Trip to United Kingdom, in July 2015 Check out my itinerary.'
+dateModified: '2016-06-13T20:05:50.879Z'
+title: ''
 app_links: []
 publisher:
   url: 'https://www.tripit.com'
@@ -25,8 +27,6 @@ publisher:
 description: 'Travelling to Wales, South West England, Nottingham, Oxford and London'
 inLanguage: en
 starred: false
-sourcePath: >-
-  _posts/2016-06-12-my-trip-to-united-kingdom-in-july-2015-check-out-my-itinera.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -34,4 +34,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/819bb61f6d60f5c97ca8513637e2de0a20ea5583.png" /><h1>My Trip to United Kingdom, in July 2015 Check out my itinerary.</h1><p>Travelling to Wales, South West England, Nottingham, Oxford and London</p></article>
+![Travelling to Wales, South West England, Nottingham, Oxford and London](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f595949a-4bb9-4e90-9205-16109b368cd9.jpg)
