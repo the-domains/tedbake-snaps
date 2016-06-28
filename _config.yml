@@ -1,15 +1,15 @@
-layout_spectrum: 0.6595477960072458
-typography_spectrum: 0.27793312328867614
+layout_spectrum: 0.47412336245179176
+typography_spectrum: 0.5978206919971853
 color:
-  brandStrength: 0.05865690531209111
-  lightness: 0.6222391822375357
-  saturation: 0.9701498921494931
-  rhythmicContrast: 0.769230272853747
+  brandStrength: 0.6237826200667769
+  lightness: 0.9051951377186924
+  saturation: 0.6009885044768453
+  rhythmicContrast: 0.9665056767407805
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: 'TedBake '
 title: 'Culinary Travels '
